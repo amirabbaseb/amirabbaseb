@@ -5,12 +5,12 @@
 ## Hey! 👋
 I'm Amirabbas, a 16 years old Software developer from Tehran.
 
-- 👥 team member at [@Takwin](https://github.com/nestdotland)
+- 👥 team member at [@Takwin](http://takwin.io/)
 
 ## Skills
 - 👨‍💻 JavaScript, C
 - ⚙️ React, React Native
-- 👁️ SASS, CSS
+- 👁️ CSS, SASS
 
 ## Contact
 - [amirabbaseb.github.io](https://amirabbaseb.github.io)
