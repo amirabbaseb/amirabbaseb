@@ -16,3 +16,5 @@ I'm Amirabbas, a 16 years old Software developer from Tehran.
 - [amirabbaseb.github.io](https://amirabbaseb.github.io)
 - [@Ebi_Dev](https://twitter.com/Ebi_Dev) on Twitter
 - [@Amirabbas Ebrahimzade](https://www.linkedin.com/in/amirabbas-ebrahimzade-b824981a3/) on Linkdein
+- [@Amirr_eb](https://t.me/Amirr_eb) on Telegram
+- [@AmirEb#4089](./)on Discord
