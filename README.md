@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/amirabbaseb/amirabbaseb/main/namePic.svg" alt="Amirabbas Ebrahimzade" />
+</h1>
 
-<!--
-**amirabbaseb/amirabbaseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Amirabbas, a 16 years old Software developer from Tehran.
 
-Here are some ideas to get you started:
+- 👥 team member at [@Takwin](https://github.com/nestdotland)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 JavaScript, C
+- ⚙️ React, React Native
+- 👁️ SASS, CSS
+
+## Contact
+- [amirabbaseb.github.io](https://amirabbaseb.github.io)
+- [@Ebi_Dev](https://twitter.com/Ebi_Dev) on Twitter
+- [@Amirabbas Ebrahimzade](https://www.linkedin.com/in/amirabbas-ebrahimzade-b824981a3/) on Linkdein
